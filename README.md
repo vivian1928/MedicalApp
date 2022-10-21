@@ -1,2 +1,2 @@
 # MedicalApp
-Medical App for Doctors' Consulation
+Medical App for Doctors' Consultation
